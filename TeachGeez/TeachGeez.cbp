@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TeachGeez" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TeachGeez" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TeachGeez" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+			<Add library="comctl32" />
+		</Linker>
+		<Unit filename="dictionary.txt" />
+		<Unit filename="main.cpp" />
+		<Unit filename="numerals.txt" />
+		<Unit filename="recordings/ha1/1Ha1.wav" />
+		<Unit filename="recordings/ha1/2Hu1.wav" />
+		<Unit filename="recordings/ha1/3Hi1.wav" />
+		<Unit filename="recordings/ha1/4Ha12.wav" />
+		<Unit filename="recordings/ha1/5He1.wav" />
+		<Unit filename="recordings/ha1/6H1.wav" />
+		<Unit filename="recordings/ha1/7Ho1.wav" />
+		<Unit filename="recordings/ha1/Ha1-full.wav" />
+		<Unit filename="recordings/ha2/1Ha2.wav" />
+		<Unit filename="recordings/le/1le.wav" />
+		<Unit filename="recordings/le/2lu.wav" />
+		<Unit filename="recordings/le/3li.wav" />
+		<Unit filename="recordings/le/4la.wav" />
+		<Unit filename="recordings/le/5le.wav" />
+		<Unit filename="recordings/le/6l.wav" />
+		<Unit filename="recordings/le/7lo.wav" />
+		<Unit filename="recordings/le/le-full.wav" />
+		<Unit filename="recordings/numericals/1.wav" />
+		<Unit filename="recordings/numericals/10.wav" />
+		<Unit filename="recordings/numericals/2.wav" />
+		<Unit filename="recordings/numericals/3.wav" />
+		<Unit filename="recordings/numericals/4.wav" />
+		<Unit filename="recordings/numericals/5.wav" />
+		<Unit filename="recordings/numericals/6.wav" />
+		<Unit filename="recordings/numericals/7.wav" />
+		<Unit filename="recordings/numericals/8.wav" />
+		<Unit filename="recordings/numericals/9.wav" />
+		<Unit filename="recordings/numericals/numericals-all.wav" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

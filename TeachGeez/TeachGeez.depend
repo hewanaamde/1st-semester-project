@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1549439421 source:c:\users\sisay\documents\codeblocks\teachgeez\main.cpp
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<wchar.h>
+
+1549284205 source:c:\users\sisay\documents\codeblocks\teachgeez\readfile.cpp
+
+1551099257 source:c:\users\hewan\documents\codeblocksprojects\teachgeez\main.cpp
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<wchar.h>
+

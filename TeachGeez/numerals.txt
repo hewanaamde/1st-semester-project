@@ -1,0 +1,30 @@
+-,ዜሮ,zero
+፩,አንድ,and
+፪,ሁለት,hulet
+፫,ሶስት,sost
+፬,አራት,arat
+፭,አምስት,amist
+፮,ስድስት,sidist
+፯,ሰባት,sebat
+፰,ስምንት,simint
+፱,ዘጠኝ,zexegn
+፲,አስር,asir
+፲፩,አስራ አንድ,asra and
+፲፪,አስራ ሁለት,asra hulet
+፲፫,አስራ ሶስት,asra sost
+፲፬,አስራ አራት,asra arat
+፲፭,አስራ አምስት,asra amist
+፲፮,አስራ ስድስት,asra sidist
+፲፯,አስራ ሰባት,asra sebat
+፲፰,አስራ ስምንት,asra simint
+፲፱,አስራ ዘጠኝ,asra zexegn
+፳,ሃያ,haya
+፴,ሰላሳ,selasa
+፵,አርባ,arba
+፶,ሃምሳ,hamsa
+፷,ስልሳ,silsa
+፸,ሰባ,seba
+፹,ሰማንያ,semaniya
+፺,ዘጠና,zexena
+፻,መቶ,meto
+፲፻,ሺህ,shih
